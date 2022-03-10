@@ -17,11 +17,4 @@ int(1) #do integeru/inta
 float(1) #do floatu
 bool(1) #do boolu/boolean
 
-
-
-#program
-
-wiek = input("Podaj swoj wiek: ")
-
-
-print(wiek)
+print(str(integer))
