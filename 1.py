@@ -1,5 +1,3 @@
-import time
-
 
 #to są zmienne
 
@@ -27,6 +25,3 @@ wiek = input("Podaj swoj wiek: ")
 
 
 print(wiek)
-
-
-time.sleep(10)
