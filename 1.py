@@ -1,13 +1,13 @@
 
 #to są zmienne
 
-integer = 4 #liczby całokowite
+calkowita = 4 #liczby całokowite / int / integer
 
-znaczki = "kuc" #ciąg znaków
+znaczki = "kuc" #ciąg znaków / string / str
 
-czyPrawda = 2 == 1 #prawda fałsz
+czyPrawda = 2 == 1 #prawda fałsz / bool / boolean
 
-przecinek = 3.14 #liczby zmiennoprzecinkowe
+przecinek = 3.14 #liczby zmiennoprzecinkowe / float
 
 
 #zamienianie wartości
